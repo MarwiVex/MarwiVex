@@ -36,7 +36,7 @@ I'm an undergrad dev who's slightly obsessed with computational logic. Honestly,
 
 ### 🚀 Stuff I've Built
 
-* 📐 **[probability-inference-cheatsheet](https://github.com/MarwiVex/probability-inference-cheatsheet)**: A bilingual (EN/ES) probability and statistical inference cheat sheet. Wrote this entirely in TeX because I like my math looking clean.
+* 📐 **[probability-inference-cheatsheet](https://github.com/MarwiVex/probability-inference-cheatsheet)**: A bilingual (EN/ES) probability and statistical inference cheat sheet.
 * 🧮 **[logistic-map-precision](https://github.com/MarwiVex/logistic-map-precision)**: An empirical deep-dive in C++ looking at precision loss and divergence in the chaotic logistic map. It compares standard IEEE 754 floats against MPFR.
 
 ---
@@ -44,6 +44,6 @@ I'm an undergrad dev who's slightly obsessed with computational logic. Honestly,
 ### 🎨 Beyond the Screen (Offline Life)
 
 Outside of my degrees and side projects, this is how I keep my sanity:
-* 🏋️‍♂️ **Lifting:** Running a 4-day Push/Pull/Legs split at the gym just to offset the hours I spend sitting at a desk.
+* 🏋️‍♂️ **Lifting:** Running a 4-day split at the gym just to offset the hours I spend sitting at a desk.
 * 🎸 **Playing guitar:** And casually nerding out over music theory.
 * 🖌️ **Making art:** I jump between sketching hyperrealistic pieces and designing pixel art, depending on the mood.
