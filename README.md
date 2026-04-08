@@ -53,6 +53,6 @@ Outside of my degrees and side projects, this is how I keep my sanity:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarwiVex&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="MarwiVex's GitHub stats" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarwiVex&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MarwiVex&show_icons=true&theme=tokyonight&include_all_commits=true&v=1" alt="MarwiVex's GitHub stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarwiVex&layout=compact&langs_count=7&theme=tokyonight&v=1" alt="Top Languages" height="180" />
 </p>
