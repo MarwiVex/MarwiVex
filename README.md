@@ -4,7 +4,7 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%238A2BE2&lines=Software+Engineering+Student;Passionate+about+Mathematics;Developer+%26+Creator&center=true)](https://git.io/typing-svg)
 </div>
 
-I'm an undergrad dev who's slightly obsessed with computational logic. Honestly, I just really enjoy figuring out how things actually work under the hood—from the raw mathematical theories all the way down to code execution. Right now, I'm juggling a dual degree: Software Development Engineering at UVEG and Information Systems Administration at Universidad de Guanajuato. It keeps me pretty busy, but I wouldn't have it any other way.
+I'm an undergrad dev who's slightly obsessed with computational logic. Honestly, I just really enjoy figuring out how things actually work under the hood—from the raw mathematical theories all the way down to code execution. Right now, I'm pursuing a dual degree: Software Development Engineering at UVEG and Information Systems Administration at Universidad de Guanajuato. It keeps me pretty busy, but I wouldn't have it any other way.
 
 ### 👨‍💻 A Bit About Me
 * 🎓 **Education:** Dual degree in Software Development & Information Systems.
