@@ -1,10 +1,9 @@
 <div align="center">
-  <img src="./prompt.svg" alt=">_" width="45" style="vertical-align: middle; margin-right: 8px;" />
-  <img src="./4b98f53e5fb3bed7a2526909e704db48.png" alt="Hey there! I'm Roberto León Landeros (@MarwiVex)" style="vertical-align: middle;" />
+  <img src="./prompt.svg" alt=">_" width="40" style="vertical-align: middle; margin-right: 5px;" /><img src="./4b98f53e5fb3bed7a2526909e704db48.png" alt="Hey there! I'm Roberto León Landeros (@MarwiVex)" style="vertical-align: middle;" />
   
   <br><br>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2358A6FF&lines=Software+Engineering+Student;Passionate+about+Mathematics;Developer+%26+Creator&center=true)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300599C&lines=Software+Engineering+Student;Passionate+about+Mathematics;Developer+%26+Creator&center=true)](https://git.io/typing-svg)
 </div>
 
 I'm an undergrad dev who's slightly obsessed with computational logic. Honestly, I just really enjoy figuring out how things actually work under the hood—from the raw mathematical theories all the way down to code execution. Right now, I'm pursuing a dual degree: Software Development Engineering at UVEG and Information Systems Administration at Universidad de Guanajuato. It keeps me pretty busy, but I wouldn't have it any other way.
