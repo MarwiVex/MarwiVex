@@ -4,7 +4,7 @@
       font-family: 'Courier New', Consolas, monospace; 
       font-size: 32px; 
       font-weight: bold; 
-      fill: #E6EDF3; 
+      fill: #58A6FF;
     }
     .blink { 
       animation: blinker 1s step-end infinite; 
