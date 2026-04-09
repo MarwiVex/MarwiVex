@@ -1,7 +1,10 @@
 <div align="center">
-  <h1>Hey there! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> I'm Roberto León Landeros (@MarwiVex)</h1>
+  <h1>
+    <img src="./prompt.svg" alt=">_" width="45" style="vertical-align: middle; margin-right: 5px;" />
+    Hey there! I'm Roberto León Landeros (@MarwiVex)
+  </h1>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%238A2BE2&lines=Software+Engineering+Student;Passionate+about+Mathematics;Developer+%26+Creator&center=true)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300599C&lines=Software+Engineering+Student;Passionate+about+Mathematics;Developer+%26+Creator&center=true)](https://git.io/typing-svg)
 </div>
 
 I'm an undergrad dev who's slightly obsessed with computational logic. Honestly, I just really enjoy figuring out how things actually work under the hood—from the raw mathematical theories all the way down to code execution. Right now, I'm pursuing a dual degree: Software Development Engineering at UVEG and Information Systems Administration at Universidad de Guanajuato. It keeps me pretty busy, but I wouldn't have it any other way.
@@ -17,8 +20,8 @@ I'm an undergrad dev who's slightly obsessed with computational logic. Honestly,
 
 **Languages:**
 <p>
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/MATLAB-%23ED1C24.svg?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB">
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/MATLAB-%23ED1C24.svg?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB">
 </p>
 
 **What I actually focus on:**
@@ -46,4 +49,4 @@ I'm an undergrad dev who's slightly obsessed with computational logic. Honestly,
 Outside of my degrees and side projects, this is how I keep my sanity:
 * 🏋️‍♂️ **Lifting:** Running a 4-day split at the gym just to offset the hours I spend sitting at a desk.
 * 🎸 **Playing guitar:** And casually nerding out over music theory.
-* 🖌️ **Making art:** I jump between sketching hyperrealistic pieces and designing pixel art, depending on the mood.
+* 🖌️ **Making art:** I jump between sketching hyperrealistic pieces and designing pixel art *(yes, I designed my profile picture)*, depending on the mood.
