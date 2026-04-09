@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 50" width="850" height="50">
+  <style>
+    @keyframes blinker { 50% { opacity: 0; } }
+    .blink { animation: blinker 1s step-end infinite; }
+    .mono { 
+      font-family: 'Courier New', Consolas, monospace; 
+      font-size: 28px; 
+      font-weight: bold; 
+      fill: #1F2328; /* Color para modo claro de GitHub */
+    }
+    @media (prefers-color-scheme: dark) {
+      .mono { fill: #E6EDF3; } /* Color para modo oscuro de GitHub */
+    }
+  </style>
+  
+  <text x="0" y="35" class="mono">></text>
+  <text x="20" y="35" class="mono blink">_</text>
+  <text x="60" y="35" class="mono">Hey there! I'm Roberto León Landeros (@MarwiVex)</text>
+</svg>
