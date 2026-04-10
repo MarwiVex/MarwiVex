@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./prompt.svg" alt=">_" width="40" style="vertical-align: middle; margin-right: 5px;" /><img src="./4b98f53e5fb3bed7a2526909e704db48.png" alt="Hey there! I'm Roberto León Landeros (@MarwiVex)" style="vertical-align: middle;" />
+  <img src="./prompt.svg" alt=">_" width="40" style="vertical-align: middle; margin-right: 5px;" /><img src="./3a9b42d249309029aa463a07ca0fc4e6.png" alt="Hey there! I'm Roberto León Landeros (@MarwiVex)" style="vertical-align: middle;" />
   
   <br><br>
 
