@@ -1,13 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="#00599C" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
-  <style>
-    .cursor {
-      animation: blink 1s step-end infinite;
-    }
-    @keyframes blink {
-      from, to { opacity: 1; }
-      50% { opacity: 0; }
-    }
-  </style>
-  <polyline points="4 17 10 11 4 5"></polyline>
-  <line class="cursor" x1="12" y1="19" x2="20" y2="19"></line>
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40" fill="none">
+  <path d="M10 12L20 20L10 28" stroke="#00599C" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="22" y1="28" x2="32" y2="28" stroke="#00599C" stroke-width="4" stroke-linecap="round">
+    <animate 
+      attributeName="visibility" 
+      values="visible;hidden;visible" 
+      dur="0.8s" 
+      calcMode="discrete" 
+      repeatCount="indefinite" />
+  </line>
 </svg>
