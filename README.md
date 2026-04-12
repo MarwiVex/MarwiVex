@@ -43,8 +43,22 @@ I'm an undergrad dev who's slightly obsessed with computational logic. Honestly,
 
 ### <img src="https://api.iconify.design/lucide/rocket.svg?color=%2300599C" width="22" style="vertical-align: middle;"> Stuff I've Built
 
-* <img src="https://api.iconify.design/lucide/file-text.svg?color=%2300599C" width="18" style="vertical-align: middle;"> **[probability-inference-cheatsheet](https://github.com/MarwiVex/probability-inference-cheatsheet)**: A bilingual (EN/ES) probability and statistical inference cheat sheet.
 * <img src="https://api.iconify.design/lucide/line-chart.svg?color=%2300599C" width="18" style="vertical-align: middle;"> **[logistic-map-precision](https://github.com/MarwiVex/logistic-map-precision)**: An empirical deep-dive in C++ looking at precision loss and divergence in the chaotic logistic map. It compares standard IEEE 754 floats against MPFR.
+
+---
+
+### <img src="https://api.iconify.design/lucide/file-text.svg?color=%2300599C" width="22" style="vertical-align: middle;"> My Cheat Sheets
+
+I've started putting together some cheat sheets for mathematical and concepts I use frequently. Currently covering probability and differential equations, with a few more in the pipeline.
+
+<div align="center">
+  <a href="https://github.com/MarwiVex/probability-inference-cheatsheet">
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=MarwiVex&repo=probability-inference-cheatsheet&bg_color=0D1117&title_color=00599C&icon_color=00599C&text_color=c9d1d9&hide_border=true" alt="Probability Inference Cheatsheet" width="48%" />
+  </a>
+  <a href="https://github.com/MarwiVex/differential-equations-cheatsheet">
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=MarwiVex&repo=differential-equations-cheatsheet&bg_color=0D1117&title_color=00599C&icon_color=00599C&text_color=c9d1d9&hide_border=true" alt="Differential Equations Cheatsheet" width="48%" />
+  </a>
+</div>
 
 ---
 
@@ -60,7 +74,8 @@ Outside of my degrees and side projects, this is how I keep my sanity:
 ### <img src="https://api.iconify.design/lucide/bar-chart-2.svg?color=%2300599C" width="22" style="vertical-align: middle;"> GitHub Activity & Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarwiVex&theme=dark&hide_border=true&background=0D1117&ring=00599C&fire=00599C&currStreakNum=00599C&currStreakLabel=00599C&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MarwiVex&bg_color=0D1117&title_color=00599C&icon_color=00599C&text_color=c9d1d9&hide_border=true&show_icons=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarwiVex&hide_border=true&background=0D1117&ring=00599C&fire=00599C&currStreakNum=00599C&currStreakLabel=00599C&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" width="48%" />
   <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarwiVex&bg_color=0D1117&color=FFFFFF&line=00599C&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarwiVex&bg_color=0D1117&color=c9d1d9&line=00599C&point=00599C&area=true&hide_border=true&title_color=00599C&axes_color=c9d1d9" alt="Contribution Graph" />
 </div>
