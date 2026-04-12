@@ -13,14 +13,21 @@
 
 I'm an undergrad dev who's slightly obsessed with computational logic. Honestly, I just really enjoy figuring out how things actually work under the hood—from the raw mathematical theories all the way down to code execution. Right now, I'm pursuing a dual degree: Software Development Engineering at UVEG and Information Systems Administration at Universidad de Guanajuato. It keeps me pretty busy, but I wouldn't have it any other way.
 
-### <img src="https://api.iconify.design/lucide/terminal.svg?color=%2300599C" width="22" style="vertical-align: middle;"> A Bit About Me
+<br>
+
+<details>
+<summary><h3><img src="https://api.iconify.design/lucide/terminal.svg?color=%2300599C" width="22" style="vertical-align: middle;"> A Bit About Me</h3></summary>
+
 * <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%2300599C" width="18" style="vertical-align: middle;"> **Education:** Dual degree in Software Development & Information Systems.
 * <img src="https://api.iconify.design/lucide/brain.svg?color=%2300599C" width="18" style="vertical-align: middle;"> **Interests:** Pure math, statistical inference, algorithm design, and computational theory.
 * <img src="https://api.iconify.design/lucide/book-open.svg?color=%2300599C" width="18" style="vertical-align: middle;"> **Currently:** Honestly, I'm just always trying to learn new math stuff.
 
----
+</details>
 
-### <img src="https://api.iconify.design/lucide/code.svg?color=%2300599C" width="22" style="vertical-align: middle;"> Tech & Tools
+<details>
+<summary><h3><img src="https://api.iconify.design/lucide/code.svg?color=%2300599C" width="22" style="vertical-align: middle;"> Tech & Tools</h3></summary>
+
+What I actually use on a daily basis to make the math do something useful.
 
 **Languages:**
 <p>
@@ -32,22 +39,31 @@ I'm an undergrad dev who's slightly obsessed with computational logic. Honestly,
 * <img src="https://api.iconify.design/lucide/target.svg?color=%2300599C" width="18" style="vertical-align: middle;"> Precision analysis and mathematical modeling.
 * <img src="https://api.iconify.design/lucide/puzzle.svg?color=%2300599C" width="18" style="vertical-align: middle;"> Computational Logic.
 
----
+</details>
 
-### <img src="https://api.iconify.design/lucide/award.svg?color=%2300599C" width="22" style="vertical-align: middle;"> Licenses & Certifications
+<details>
+<summary><h3><img src="https://api.iconify.design/lucide/award.svg?color=%2300599C" width="22" style="vertical-align: middle;"> Licenses & Certifications</h3></summary>
+
+Because dual degrees apparently aren't enough. Official validations of my technical skills and continuous learning.
 
 * <img src="https://api.iconify.design/lucide/medal.svg?color=%2300599C" width="18" style="vertical-align: middle;"> **[Mathematics for Engineers](https://www.coursera.org/account/accomplishments/specialization/certificate/9NXRBRYF4RVY)**
 * <img src="https://api.iconify.design/lucide/bot.svg?color=%2300599C" width="18" style="vertical-align: middle;"> **[Microsoft Certified: Azure AI Fundamentals (AI-900)](https://learn.microsoft.com/es-es/users/robertolenlanderos-8385/credentials/7c2b93188c7a44bd?ref=https%3A%2F%2Fwww.linkedin.com%2F)**
 
----
+</details>
 
-### <img src="https://api.iconify.design/lucide/rocket.svg?color=%2300599C" width="22" style="vertical-align: middle;"> Stuff I've Built
+<details>
+<summary><h3><img src="https://api.iconify.design/lucide/rocket.svg?color=%2300599C" width="22" style="vertical-align: middle;"> Stuff I've Built</h3></summary>
 
-* <img src="https://api.iconify.design/lucide/line-chart.svg?color=%2300599C" width="18" style="vertical-align: middle;"> **[logistic-map-precision](https://github.com/MarwiVex/logistic-map-precision)**: An empirical deep-dive in C++ looking at precision loss and divergence in the chaotic logistic map. It compares standard IEEE 754 floats against MPFR.
+A collection of my empirical research, computational simulations, and academic projects.
 
----
+<div align="center">
+  <a href="https://github.com/MarwiVex/logistic-map-precision"><img src="https://github-readme-stats.shion.dev/api/pin?username=MarwiVex&repo=logistic-map-precision&bg_color=0D1117&title_color=00599C&icon_color=00599C&text_color=c9d1d9&hide_border=true" alt="Logistic Map Precision" width="48%" /></a>
+</div>
 
-### <img src="https://api.iconify.design/lucide/file-text.svg?color=%2300599C" width="22" style="vertical-align: middle;"> My Cheat Sheets
+</details>
+
+<details>
+<summary><h3><img src="https://api.iconify.design/lucide/file-text.svg?color=%2300599C" width="22" style="vertical-align: middle;"> My Cheat Sheets</h3></summary>
 
 A collection of quick-reference mathematical guides I've put together. Easy-to-read formats for faster problem-solving.
 
@@ -56,18 +72,23 @@ A collection of quick-reference mathematical guides I've put together. Easy-to-r
   <a href="https://github.com/MarwiVex/differential-equations-cheatsheet"><img src="https://github-readme-stats.shion.dev/api/pin?username=MarwiVex&repo=differential-equations-cheatsheet&bg_color=0D1117&title_color=00599C&icon_color=00599C&text_color=c9d1d9&hide_border=true" alt="Differential Equations Cheatsheet" width="48%" /></a>
 </div>
 
----
+</details>
 
-### <img src="https://api.iconify.design/lucide/coffee.svg?color=%2300599C" width="22" style="vertical-align: middle;"> Beyond the Screen (Offline Life)
+<details>
+<summary><h3><img src="https://api.iconify.design/lucide/coffee.svg?color=%2300599C" width="22" style="vertical-align: middle;"> Beyond the Screen (Offline Life)</h3></summary>
 
 Outside of my degrees and side projects, this is how I keep my sanity:
 * <img src="https://api.iconify.design/lucide/dumbbell.svg?color=%2300599C" width="18" style="vertical-align: middle;"> **Lifting:** Running a 4-day split at the gym just to offset the hours I spend sitting at a desk.
 * <img src="https://api.iconify.design/lucide/music.svg?color=%2300599C" width="18" style="vertical-align: middle;"> **Playing guitar:** And casually nerding out over music theory.
 * <img src="https://api.iconify.design/lucide/brush.svg?color=%2300599C" width="18" style="vertical-align: middle;"> **Making art:** I jump between sketching hyperrealistic pieces and designing pixel art *(yes, I designed my profile picture)*, depending on the mood.
 
+</details>
+
 ---
 
 ### <img src="https://api.iconify.design/lucide/bar-chart-2.svg?color=%2300599C" width="22" style="vertical-align: middle;"> GitHub Activity & Analytics
+
+Proof of work. Tracking my daily commits and the inevitable late-night coding sessions.
 
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=MarwiVex&bg_color=0D1117&title_color=00599C&icon_color=00599C&text_color=c9d1d9&hide_border=true&show_icons=true" alt="GitHub Stats" width="48%" />
