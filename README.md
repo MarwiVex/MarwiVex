@@ -24,8 +24,7 @@ I'm an undergrad dev who's slightly obsessed with computational logic. Honestly,
 
 </details>
 
-<details>
-<summary><h3><img src="https://api.iconify.design/lucide/code.svg?color=%2300599C" width="22" style="vertical-align: middle;"> Tech & Tools</h3></summary>
+<h3><img src="https://api.iconify.design/lucide/code.svg?color=%2300599C" width="22" style="vertical-align: middle;"> Tech & Tools</h3>
 
 What I actually use on a daily basis to make the math do something useful.
 
@@ -39,7 +38,6 @@ What I actually use on a daily basis to make the math do something useful.
 * <img src="https://api.iconify.design/lucide/target.svg?color=%2300599C" width="18" style="vertical-align: middle;"> Precision analysis and mathematical modeling.
 * <img src="https://api.iconify.design/lucide/puzzle.svg?color=%2300599C" width="18" style="vertical-align: middle;"> Computational Logic.
 
-</details>
 
 <details>
 <summary><h3><img src="https://api.iconify.design/lucide/award.svg?color=%2300599C" width="22" style="vertical-align: middle;"> Licenses & Certifications</h3></summary>
@@ -51,16 +49,13 @@ Because dual degrees apparently aren't enough. Official validations of my techni
 
 </details>
 
-<details>
-<summary><h3><img src="https://api.iconify.design/lucide/rocket.svg?color=%2300599C" width="22" style="vertical-align: middle;"> Stuff I've Built</h3></summary>
+<h3><img src="https://api.iconify.design/lucide/rocket.svg?color=%2300599C" width="22" style="vertical-align: middle;"> Stuff I've Built</h3>
 
 A collection of my empirical research, computational simulations, and academic projects.
 
 <div align="center">
   <a href="https://github.com/MarwiVex/logistic-map-precision"><img src="https://github-readme-stats.shion.dev/api/pin?username=MarwiVex&repo=logistic-map-precision&bg_color=0D1117&title_color=00599C&icon_color=00599C&text_color=c9d1d9&hide_border=true" alt="Logistic Map Precision" width="48%" /></a>
 </div>
-
-</details>
 
 <details>
 <summary><h3><img src="https://api.iconify.design/lucide/file-text.svg?color=%2300599C" width="22" style="vertical-align: middle;"> My Cheat Sheets</h3></summary>
@@ -88,7 +83,7 @@ Outside of my degrees and side projects, this is how I keep my sanity:
 
 ### <img src="https://api.iconify.design/lucide/bar-chart-2.svg?color=%2300599C" width="22" style="vertical-align: middle;"> GitHub Activity & Analytics
 
-Proof of work. Tracking my daily commits and the inevitable late-night working sessions.
+Proof of work. Tracking my daily commits and the inevitable late-night coding sessions.
 
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=MarwiVex&bg_color=0D1117&title_color=00599C&icon_color=00599C&text_color=c9d1d9&hide_border=true&show_icons=true" alt="GitHub Stats" width="48%" />
