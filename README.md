@@ -35,6 +35,12 @@ What I actually use on a daily basis to make the math do something useful.
   <img src="https://img.shields.io/badge/MATLAB-%2300599C.svg?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB">
 </p>
 
+**Tools & Version Control:**
+<p>
+  <img src="https://img.shields.io/badge/LaTeX-%2300599C.svg?style=flat-square&logo=latex&logoColor=white" alt="LaTeX">
+  <img src="https://img.shields.io/badge/Git-%2300599C.svg?style=flat-square&logo=git&logoColor=white" alt="Git">
+</p>
+
 **What I actually focus on:**
 * <img src="https://api.iconify.design/lucide/target.svg?color=%2300599C" width="18" style="vertical-align: middle;"> Precision analysis and mathematical modeling.
 * <img src="https://api.iconify.design/lucide/puzzle.svg?color=%2300599C" width="18" style="vertical-align: middle;"> Computational Logic.
