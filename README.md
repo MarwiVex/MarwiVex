@@ -83,7 +83,7 @@ Outside of my degrees and side projects, this is how I keep my sanity:
 
 ### <img src="https://api.iconify.design/lucide/bar-chart-2.svg?color=%2300599C" width="22" style="vertical-align: middle;"> GitHub Activity & Analytics
 
-Proof of work. Tracking my daily commits and the inevitable late-night coding sessions.
+Proof of work. Tracking daily commits and what I’m actually spending my time on.
 
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=MarwiVex&bg_color=0D1117&title_color=00599C&icon_color=00599C&text_color=c9d1d9&hide_border=true&show_icons=true" alt="GitHub Stats" width="48%" />
