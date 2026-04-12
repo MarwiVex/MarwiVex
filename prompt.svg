@@ -1,11 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40" fill="none">
-  <path d="M10 12L20 20L10 28" stroke="#00599C" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-  <line x1="22" y1="28" x2="32" y2="28" stroke="#00599C" stroke-width="4" stroke-linecap="round">
-    <animate 
-      attributeName="visibility" 
-      values="visible;hidden;visible" 
-      dur="0.8s" 
-      calcMode="discrete" 
-      repeatCount="indefinite" />
-  </line>
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="40" viewBox="0 0 50 40">
+  <style>
+    .terminal { 
+      font-family: 'Courier New', Consolas, monospace; 
+      font-size: 32px; 
+      font-weight: bold; 
+      fill: #58A6FF;
+    }
+    .blink { 
+      animation: blinker 1s step-end infinite; 
+    }
+    @keyframes blinker { 
+      50% { opacity: 0; } 
+    }
+  </style>
+  <text x="0" y="50%" dominant-baseline="central" class="terminal">></text>
+  <text x="22" y="50%" dominant-baseline="central" class="terminal blink">_</text>
 </svg>
