@@ -76,7 +76,7 @@ A collection of quick-reference mathematical guides I've put together. Easy-to-r
 <div align="center">
   <a href="https://github.com/MarwiVex/probability-inference-cheatsheet"><img src="https://github-readme-stats.shion.dev/api/pin?username=MarwiVex&repo=probability-inference-cheatsheet&bg_color=0D1117&title_color=00599C&icon_color=00599C&text_color=c9d1d9&hide_border=true" alt="Probability Inference Cheatsheet" width="48%" /></a>
   <a href="https://github.com/MarwiVex/differential-equations-cheatsheet"><img src="https://github-readme-stats.shion.dev/api/pin?username=MarwiVex&repo=differential-equations-cheatsheet&bg_color=0D1117&title_color=00599C&icon_color=00599C&text_color=c9d1d9&hide_border=true" alt="Differential Equations Cheatsheet" width="48%" /></a>
-  <a href="[https://github.com/MarwiVex/differential-equations-cheatsheet](https://github.com/MarwiVex/numerical-methods-cheatsheet)"><img src="https://github-readme-stats.shion.dev/api/pin?username=MarwiVex&repo=differential-equations-cheatsheet&bg_color=0D1117&title_color=00599C&icon_color=00599C&text_color=c9d1d9&hide_border=true" alt="Differential Equations Cheatsheet" width="48%" /></a>
+  <a href="https://github.com/MarwiVex/numerical-methods-cheatsheet"><img src="https://github-readme-stats.shion.dev/api/pin?username=MarwiVex&repo=numerical-methods-cheatsheet&bg_color=0D1117&title_color=00599C&icon_color=00599C&text_color=c9d1d9&hide_border=true" alt="Numerical Methods Cheatsheet" width="48%" /></a>
 </div>
 
 </details>
