@@ -79,6 +79,7 @@ A collection of quick-reference mathematical guides I've put together. Easy-to-r
   <a href="https://github.com/MarwiVex/numerical-methods-cheatsheet"><img src="https://github-readme-stats.shion.dev/api/pin?username=MarwiVex&repo=numerical-methods-cheatsheet&bg_color=0D1117&title_color=00599C&icon_color=00599C&text_color=c9d1d9&hide_border=true" alt="Numerical Methods Cheatsheet" width="48%" /></a>
   <a href="https://github.com/MarwiVex/vector-calculus-cheatsheet"><img src="https://github-readme-stats.shion.dev/api/pin?username=MarwiVex&repo=vector-calculus-cheatsheet&bg_color=0D1117&title_color=00599C&icon_color=00599C&text_color=c9d1d9&hide_border=true" alt="Vector Calculus Cheatsheet" width="48%" /></a>
   <a href="https://github.com/MarwiVex/analytical-geometry-cheatsheet"><img src="https://github-readme-stats.shion.dev/api/pin?username=MarwiVex&repo=analytical-geometry-cheatsheet&bg_color=0D1117&title_color=00599C&icon_color=00599C&text_color=c9d1d9&hide_border=true" alt="Analytical Geometry Cheatsheet" width="48%" /></a>
+  <a href="https://github.com/MarwiVex/linear-algebra-cheatsheet"><img src="https://github-readme-stats.shion.dev/api/pin?username=MarwiVex&repo=linear-algebra-cheatsheet&bg_color=0D1117&title_color=00599C&icon_color=00599C&text_color=c9d1d9&hide_border=true" alt="Linear Algebra Cheatsheet" width="48%" /></a>
 </div>
 
 </details>
