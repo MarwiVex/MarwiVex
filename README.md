@@ -90,7 +90,7 @@ A collection of quick-reference mathematical guides I've put together. Easy-to-r
 Outside of my degrees and side projects, this is how I keep my sanity:
 * <img src="https://api.iconify.design/lucide/dumbbell.svg?color=%2300599C" width="18" style="vertical-align: middle;"> **Lifting:** Running a 4-day split at the gym just to offset the hours I spend sitting at a desk.
 * <img src="https://api.iconify.design/lucide/music.svg?color=%2300599C" width="18" style="vertical-align: middle;"> **Playing guitar:** And casually nerding out over music theory.
-* <img src="https://api.iconify.design/lucide/brush.svg?color=%2300599C" width="18" style="vertical-align: middle;"> **Making art:** I jump between sketching hyperrealistic pieces and designing pixel art *(yes, I designed my profile picture)*, depending on the mood. Check out my **[Art Portfolio](https://marwivex.github.io/art-portfolio/)**!
+* <img src="https://api.iconify.design/lucide/brush.svg?color=%2300599C" width="18" style="vertical-align: middle;"> **Making art:** I jump between sketching realistic pieces and designing pixel art *(yes, I designed my profile picture)*, depending on the mood. Check out my **[Art Portfolio](https://marwivex.github.io/art-portfolio/)**!
 
 </details>
 
